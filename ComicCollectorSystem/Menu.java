@@ -217,7 +217,7 @@ public class Menu {
       String fecha = java.time.LocalDate.now().toString();
       String rutaArchivo = "reporte_comics_" + fecha + ".txt";
       try (BufferedWriter writer = new BufferedWriter(new java.io.FileWriter(rutaArchivo))) {
-        writer.write("===== Reporte de Libros =====");
+        writer.write("Reporte de Comics");
         writer.newLine();
         if (Comic.isEmpty()) {
           writer.write("No hay comics disponibles.");
