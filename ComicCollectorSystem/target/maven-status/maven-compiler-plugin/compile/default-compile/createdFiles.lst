@@ -1,0 +1,8 @@
+cl\duoc\ComicCollectorSystem\exceptions\NoNombreException.class
+cl\duoc\ComicCollectorSystem\models\cuentas\Cuenta.class
+cl\duoc\ComicCollectorSystem\models\comics\Comic.class
+cl\duoc\ComicCollectorSystem\Menu.class
+cl\duoc\ComicCollectorSystem\exceptions\NoUsuarioException.class
+cl\duoc\ComicCollectorSystem\models\cuentas\Usuario.class
+cl\duoc\ComicCollectorSystem\ComicCollectorSystem.class
+cl\duoc\ComicCollectorSystem\managers\Manager.class
